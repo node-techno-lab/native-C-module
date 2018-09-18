@@ -1,2 +1,2 @@
 # native-C-module
-NodeJs Native C/C++ module 
+NodeJS Native C/C++ module 
